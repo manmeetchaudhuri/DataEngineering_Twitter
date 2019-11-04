@@ -1,4 +1,5 @@
-# DataEngineering_Twitter
+# Building a Twitter big data pipeline with Kafka, Python and MongoDB
+# Sentiment analysis of Tweets
 
 The task is to create a data pipeline that covers the following aspects:
 1)	Data ingestion
